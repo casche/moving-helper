@@ -31,7 +31,7 @@ public class TaskSectionHeaderView: UITableViewCell {
   
   /**
   Configures the view based on the task due date and the user's move date.
-  
+  A comment
   :param: dueDate  The due date for the current section
   :param: moveDate The user's move date.
   */
