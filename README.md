@@ -4,3 +4,5 @@ A sample project for a [RayWenderlich.com](http://www.raywenderlich.com) tutoria
 
 ###Master branch build status: 
 ![](https://travis-ci.org/designatednerd/MovingHelper.svg?branch=master)
+
+# a test
